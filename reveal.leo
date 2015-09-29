@@ -2044,7 +2044,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;第一次碰觸git，雖然還是有點生疏，不過經由老師的影片和同學的協助，讓我對版本控制有初步的了解。&lt;/p&gt;
+    &lt;p&gt;第一次碰觸git，雖然還是有點生疏，不過經由老師的影片和同學的協助，讓我對版本控制有初步的了解。自評分數為60分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
